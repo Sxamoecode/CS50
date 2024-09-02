@@ -1,2 +1,2 @@
 *Welcome Note*
-Started Data Scienc With Python With edx
+Started Data Science With Python With edx
